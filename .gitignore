@@ -142,3 +142,4 @@ pcap_test
 *.dll
 *.exe
 /libnet
+packet_headers.*
