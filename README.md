@@ -3,4 +3,4 @@
 simple tcp capturer
 
 ### Prerequisites
-- libinet header
+- libnet header
